@@ -1,2 +1,2 @@
 # r_d_MLOps
-MLOps course
+The repo for MLOps course
